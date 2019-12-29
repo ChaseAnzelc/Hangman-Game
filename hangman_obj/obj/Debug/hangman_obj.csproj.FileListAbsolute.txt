@@ -1,0 +1,8 @@
+E:\vsprojects\hangman_obj\hangman_obj\bin\Debug\wordlist.txt
+E:\vsprojects\hangman_obj\hangman_obj\bin\Debug\hangman_obj.exe.config
+E:\vsprojects\hangman_obj\hangman_obj\bin\Debug\hangman_obj.exe
+E:\vsprojects\hangman_obj\hangman_obj\bin\Debug\hangman_obj.pdb
+E:\vsprojects\hangman_obj\hangman_obj\obj\Debug\hangman_obj.csprojResolveAssemblyReference.cache
+E:\vsprojects\hangman_obj\hangman_obj\obj\Debug\hangman_obj.csproj.CoreCompileInputs.cache
+E:\vsprojects\hangman_obj\hangman_obj\obj\Debug\hangman_obj.exe
+E:\vsprojects\hangman_obj\hangman_obj\obj\Debug\hangman_obj.pdb
